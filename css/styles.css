@@ -44,7 +44,7 @@ img{
     
 }
 .sicelomgobhozi{
-    float: right;
+    
     margin-right: 300px;
     margin-top: 50px;
 }
@@ -61,6 +61,7 @@ img{
     height: 60px;
     text-align: center;
     padding-top: 30px;
+    margin-bottom: 0;
 }
 input{
     width: 50%;
